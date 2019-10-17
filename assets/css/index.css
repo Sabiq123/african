@@ -3,7 +3,7 @@
 }
 #back {
 	flex: 1 1 auto;
-	background-image:("../assets/img/place.png");
+	background-image:("/keepinghistoryalive/assets/img/place.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
