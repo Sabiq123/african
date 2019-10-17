@@ -3,7 +3,7 @@
 }
 #back {
 	flex: 1 1 auto;
-	background-image:url("/leaders/assets/img/place.jpg");
+	background-image:("../assets/img/place.png");
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
@@ -19,7 +19,7 @@
 	margin-left: 15%;
 	margin-right: auto;
 	display: block;
-	color: white;
+	color: black;
 }
 #main h1 {
 	font-size: 70px;
